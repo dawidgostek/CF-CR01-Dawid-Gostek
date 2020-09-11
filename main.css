@@ -38,8 +38,8 @@ ul{
 }
 ul>li{
     float: left;
-    margin-left: 20px;
-    font-size: 20px;
+    margin-left: 15px;
+    font-size: 21px;
     color: #fff;
     font-weight: bold;
 }
@@ -52,8 +52,9 @@ a:hover{
 }
 .text2{
     text-align: center;
-    font-size: 25px;
+    font-size: 30px;
     margin-bottom: 80px;
+    font-weight: bold;
 }
 .img1, .img2{
     margin-left: 60px;
@@ -74,7 +75,7 @@ a:hover{
     height: 120px;
     padding-top: 10px;
     text-align: center;
-    background-color: #CABBB7;    
+    background-color: #CABBB7;  
 }
 /*About me*/
 .about{
