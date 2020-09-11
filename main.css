@@ -1,74 +1,61 @@
 /*Home Page*/
-#container
-{
+#container{
     width: 1000px;
     margin: auto;
     font-family: 'Noto Sans JP', sans-serif;
     background-color: #fffbf9;
 }
-.header
-{
+.header{
     background-color: #CABBB7;
     display: flex;
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.text
-{
+.text{
     width: 400px;
     margin-left: 150px;
     margin-top: 15px;
     text-align: center;
 }
-.logo
-{
+.logo{
     width: 300px;
     height: 80px;
     margin-left: 120px;
     margin-top: 8px;
 }
-.list
-{
+.list{
     background-color: #C65252;
     height: 40px;
     padding-top: 1px;
     padding-bottom: 20px;    
 }
-nav
-{
+nav{
     margin-left: 550px;
 }
-ul 
-{
+ul{
     list-style-type:none;
-    display: flex;
-        
+    display: flex;  
 }
-ul>li
-{
+ul>li{
     float: left;
     margin-left: 20px;
     font-size: 20px;
     color: #fff;
     font-weight: bold;
 }
-a
-{
+a{
     color: #fff;
     text-decoration: none;
 }
-a:hover
-{
+a:hover{
     color: rgba(255, 255, 255, 0.712);
 }
-.text2
-{
+.text2{
     text-align: center;
     font-size: 25px;
     margin-bottom: 80px;
 }
-.img1, .img2
-{
+.img1, .img2{
     margin-left: 60px;
     margin-right: 60px;
     display: flex;
@@ -76,37 +63,30 @@ a:hover
     font-weight: bold;
     font-size: 24px;
 }
-.img2
-{
+.img2{
     height: 300px;
     margin-bottom: 20px;
-
 }
-#card
-{
+#card{
     margin-right: 50px;
 }
-.footer
-{
+.footer{
     height: 120px;
     padding-top: 10px;
     text-align: center;
     background-color: #CABBB7;    
 }
 /*About me*/
-.about
-{
+.about{
     margin: 30px 100px 50px 100px;
 }
 /*Contact*/
-.contact
-{
+.contact{
     margin-top: 100px;
     margin-bottom: 200px;
     text-align: center;
 }
 /*Blog*/
-.blog
-{
+.blog{
     margin: 50px 100px;
 }
